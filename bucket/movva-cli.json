@@ -1,0 +1,21 @@
+{
+    "version": "0.0.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/movva-tech/movva-cli/releases/download/v0.0.2/movva-cli_Windows_x86_64.zip",
+            "bin": [
+                "movva-cli.exe"
+            ],
+            "hash": "6e5440f37ed1582a2cf50dffdc5a3b4e3cb17230b48ffadc30a74a785e4e626d"
+        },
+        "arm64": {
+            "url": "https://github.com/movva-tech/movva-cli/releases/download/v0.0.2/movva-cli_Windows_arm64.zip",
+            "bin": [
+                "movva-cli.exe"
+            ],
+            "hash": "0560be74e2411ab9747a70b2ee920a02e48247c41e9c92cc63a43b575025a253"
+        }
+    },
+    "homepage": "https://github.com/movva-tech/movva-cli",
+    "description": "Manage Movva agents, robots, and the movva-tech-library Python package."
+}
