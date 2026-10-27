@@ -1,19 +1,19 @@
 {
-    "version": "0.0.2",
+    "version": "0.0.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/movva-tech/movva-cli/releases/download/v0.0.2/movva-cli_Windows_x86_64.zip",
+            "url": "https://github.com/movva-tech/movva-cli/releases/download/v0.0.3/movva-cli_Windows_x86_64.zip",
             "bin": [
                 "movva-cli.exe"
             ],
-            "hash": "6e5440f37ed1582a2cf50dffdc5a3b4e3cb17230b48ffadc30a74a785e4e626d"
+            "hash": "f0d028bc1d9a7a518a7700b54af9dd4816ee5b19ec20b5f4a8a51afa7e5001b4"
         },
         "arm64": {
-            "url": "https://github.com/movva-tech/movva-cli/releases/download/v0.0.2/movva-cli_Windows_arm64.zip",
+            "url": "https://github.com/movva-tech/movva-cli/releases/download/v0.0.3/movva-cli_Windows_arm64.zip",
             "bin": [
                 "movva-cli.exe"
             ],
-            "hash": "0560be74e2411ab9747a70b2ee920a02e48247c41e9c92cc63a43b575025a253"
+            "hash": "549a92bef1303594ef30320a0a61e615097c9ba39f380ed4d09d52579bd31836"
         }
     },
     "homepage": "https://github.com/movva-tech/movva-cli",
